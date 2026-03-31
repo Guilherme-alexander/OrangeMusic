@@ -1,0 +1,10 @@
+# OrangeMusic - Dependências do Python
+# Este projeto usa apenas bibliotecas padrão do Python
+# Nenhuma dependência externa é necessária
+
+# Caso queira instalar pacotes adicionais para funcionalidades extras:
+# mutagen==1.46.0      # Para ler metadados de áudio (tags ID3)
+# colorama==0.4.6      # Para cores no terminal (Windows)
+
+# O servidor funciona perfeitamente sem nenhum pacote externo
+# Apenas Python 3.6+ é necessário
