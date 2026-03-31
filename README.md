@@ -1,8 +1,8 @@
-# 🎵 OrangeMusic - Player de Música estilo Spotify
+# 🍊 OrangeMusic - Player de Música estilo Spotify 🎵
 
 Um player de música completo com tema laranja e preto, similar ao Spotify, que carrega automaticamente todas as músicas da pasta Music do Windows.
 
-![OrangeMusic Screenshot](https://via.placeholder.com/800x400/000000/ff6b00?text=OrangeMusic+Player)
+![OrangeMusic Screenshot](https://github.com/Guilherme-alexander/OrangeMusic/img/screenshot.png)
 
 ## ✨ Funcionalidades
 
