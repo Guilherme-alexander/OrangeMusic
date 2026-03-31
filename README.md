@@ -2,7 +2,7 @@
 
 Um player de música completo com tema laranja e preto, similar ao Spotify, que carrega automaticamente todas as músicas da pasta Music do Windows.
 
-![OrangeMusic Screenshot](https://github.com/Guilherme-alexander/OrangeMusic/img/screenshot.png)
+![OrangeMusic Screenshot](https://github.com/Guilherme-alexander/OrangeMusic/blob/main/img/screenshot.png)
 
 ## ✨ Funcionalidades
 
